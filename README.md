@@ -11,8 +11,8 @@ FSW Fellow at [Pursuit](https://www.pursuit.org)         <em>psssst</em>...[Appl
 Purple goes with everything.      ![CJR_catwalk](https://media.giphy.com/media/WQeqHrPqJ1r7mTS0z9/giphy.gif)  
 ```
 if (!writing code) {
-  sewing clothes
-  practicing :fr:
+  sewing clothes;
+  practicing :fr:;
 }
 ```
 
