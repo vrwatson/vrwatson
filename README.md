@@ -10,9 +10,9 @@ README.md = markdown language -->
 FSW Fellow at [Pursuit](https://www.pursuit.org)         <em>psssst</em>...[Applications are now open](https://www.pursuit.org/apply)!    
 Purple goes with everything.      ![CJR_catwalk](https://media.giphy.com/media/WQeqHrPqJ1r7mTS0z9/giphy.gif)  
 ```
-if (!writing_code) {
-  sewing_clothes;
-  practicing_:fr:;
+if (!writingCode) {
+  sewingClothes;
+  etudierFrancais;
 }
 ```
 
