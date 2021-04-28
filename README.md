@@ -7,8 +7,9 @@ README.md = markdown language -->
 
 ### **About Me** :tada:
 
-FSW Fellow at [Pursuit](https://www.pursuit.org)         
-Purple goes with everything.      ![CJR_catwalk](https://media.giphy.com/media/WQeqHrPqJ1r7mTS0z9/giphy.gif)  
+FSW Fellow at [Pursuit](https://www.pursuit.org)<br>         
+![CJR_catwalk](https://media.giphy.com/media/WQeqHrPqJ1r7mTS0z9/giphy.gif)<br>
+Purple goes with everything.
 ```
 if (!writingCode) {
   sewingClothes;
