@@ -7,7 +7,7 @@ README.md = markdown language -->
 
 ### **About Me** :tada:
 
-FSW Fellow at [Pursuit](https://www.pursuit.org)         <em>psssst</em>...[Applications are now open](https://www.pursuit.org/apply)!    
+FSW Fellow at [Pursuit](https://www.pursuit.org)         
 Purple goes with everything.      ![CJR_catwalk](https://media.giphy.com/media/WQeqHrPqJ1r7mTS0z9/giphy.gif)  
 ```
 if (!writingCode) {
