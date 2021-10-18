@@ -25,7 +25,7 @@ if (!writingCode) {
 | --- | ----------- |   
 | [The Secret Lives of Church Ladies](https://www.deeshaphilyaw.com) |    Deesha Philyaw   |   
 | [The Prophets](http://www.sonofbaldwin.com) |  Robert Jones, Jr.  |   
-| [Lurking](https://joannemcneil.com) |    Joanne McNeil   |    
+| [Invisible Women: Data Bias in a World Designed for Men](https://carolinecriadoperez.com/book/invisible-women/) |    Caroline Craido Perez   |    
 | [Inclusive Design for a Digital World](https://reginegilbert.com/inclusive-design-book) |    Regine Gilbert   |     
 | [The Golden Thread: How Fabric Changed History](https://kassiastclair.com/books/) |    Kassia St. Clair   |     
 | [Vénus Noire: Black Women and Colonial Fantasies in Nineteenth-Century France](https://www.robinmitchellhistorian.com/venus-noire) |    Dr. Robin Mitchell   |     
